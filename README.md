@@ -21,7 +21,7 @@ Let's look at some examples. To do this, I will use the example .txt files from 
 
 To begin, let's look at what one of these texts look like in its unsilly state. For example, let's look at `example_texts/The_Elements_of_Euclid.txt`. This .txt file is a copy of the first book from Euclid's Elements (the ancient manuscript that gave us highschool geometry --- a serious text if there every was one). This is what that text looks like in its fully, serious glory:
 
-![euclid_serious](images/euclid__serious.png)
+![euclid_serious](images/euclid_serious.png)
 
 Now let's work some magic with some:
 
