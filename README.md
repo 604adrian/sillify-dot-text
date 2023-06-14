@@ -33,7 +33,7 @@ and --- boom --- the text is now silly:
 
 But maybe _not silly enough?_ Well okay then, that's fine. We can reshuffle some words around and resillify it.
 
-To illustrate the resillification process, let's turn to another text. This time it'll be Bertrand Russell's _Problem's of Philosophy_ (chapter two), where Sir Russell takes on the very serious and non-obvious question as to whether or not these so-called 'material objects' even exist in the first place. The original text looks like this:
+To illustrate the resillification process, let's turn to another text. This time it'll be Bertrand Russell's _Problem's of Philosophy_ (chapter two), where Sir Russell takes on the very serious and non-obvious question as to whether or not material objects like tables and chairs even exist in the first place. The original text looks like this:
 
 ![russell serious](images/russell_serious.png)
 
